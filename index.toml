@@ -21,6 +21,11 @@ hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.toml"
+hash = "37bdb7addeae03d930ec5e3f3b7059aafe9af15d1391d9aa82562adff87a0f95"
+metafile = true
+
+[[files]]
 file = "mods/hydrogen.toml"
 hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
