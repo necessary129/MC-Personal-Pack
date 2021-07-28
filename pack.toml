@@ -1,0 +1,15 @@
+name = "MC Personal Pack"
+author = "noteness"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c63d36e7b1d5308c283be83a1591cf0f7f122ce51cdf573ce71a10ee5098ffa1"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.17.1"
+
+[options]
+acceptable-game-versions = "1.17.1-pre1"

@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/carpet-extra.toml"
+hash = "73d7183e7d17bbe83fba165262b0e575e6e23707dda5a7cbb7d27305ae25bd38"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "2d33cd9068a49f815f7dc38284ab10d5d08eb36986987609d3371c877498d2e3"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "33c3f592b0f5f3be641ce1417a0d345035ea51c11d1726265745d6e3c96550de"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "69d55cb30ccb658e2e1f7ffe6202adb927bea0ebbe7dd0eb1da749d2dda9c28c"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "32fdab068429360301cf1720604f4f0dbb3ab81d3e78f9847be2ff741f04813c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "abddfea18949aab253e690ff6982c4bc5f3fa3a45491b26c7bbf3c62eb46885a"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "318293bd9c366d5ca122ad36fa613bf831692627023f5807b0bbf96df58d3bdf"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "e3d60efc428887077d130ca7ec6d1259a9d0240d035d22eee2802555d2a1ded4"
+metafile = true
