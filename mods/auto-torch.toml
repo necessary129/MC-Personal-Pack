@@ -1,0 +1,13 @@
+name = "Auto Torch"
+filename = "autotorch-mc1.17.1-1.2.2+build.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YHeYlxN5/versions/1.2.2/autotorch-mc1.17.1-1.2.2+build.2.jar"
+hash-format = "sha512"
+hash = "39e0c9fe22e61b05683624e198a5bfe6982dfd0449b34bb18cc062a84afc45474de5b142094d867f76fe8d37866632ea047e0cd1ab26ddd6b40e04fade3266c4"
+
+[update]
+[update.modrinth]
+mod-id = "YHeYlxN5"
+version = "s4iMvG7Y"

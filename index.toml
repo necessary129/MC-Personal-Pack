@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/auto-torch.toml"
+hash = "085cc9a442d58c8e17cedf18d7c3b3c231a39d3c904cef179df9ce6ffa8b4146"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.toml"
 hash = "73d7183e7d17bbe83fba165262b0e575e6e23707dda5a7cbb7d27305ae25bd38"
 metafile = true
