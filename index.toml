@@ -79,3 +79,8 @@ metafile = true
 file = "mods/sodium.toml"
 hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
 metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
+metafile = true
