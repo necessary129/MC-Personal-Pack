@@ -1,11 +1,12 @@
 name = "MC Personal Pack"
 author = "noteness"
 version = "1.0.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "70b1ac78ee981ea4afc8c8d20478900a84424d80b864ef7a07e0603ca8ba266a"
+hash = "43337790b9ec5a294452c9868df6b0d2b69c60152e3ea1dc42a95a720d6afade"
 
 [versions]
 fabric = "0.11.6"

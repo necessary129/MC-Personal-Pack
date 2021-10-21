@@ -12,12 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "e83d84ab1a411f6d798ec2779e7f6d1e4886de3ce16466d6c640781b0c36ca12"
+hash = "77036677eb329b214262345f680a34518df713a3e04c8747738f816ddfb1cb67"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
+hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "450534bf737e8f9929d5fb867fc06f14e60df5299e67ca4ae2b85a6a54970811"
+hash = "8783fffeefc606aeac7b1ca2b8aa2e7e6d7e31d956ff02af879ffb4fa9a5159e"
 metafile = true
 
 [[files]]
