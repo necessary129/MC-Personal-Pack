@@ -1,14 +1,14 @@
 name = "Carpet Extra"
-filename = "carpet-extra-1.17.1-1.4.43.jar"
+filename = "carpet-extra-1.17.1-1.4.51.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3380/959/carpet-extra-1.17.1-1.4.43.jar"
+url = "https://edge.forgecdn.net/files/3507/194/carpet-extra-1.17.1-1.4.51.jar"
 hash-format = "murmur2"
-hash = "3447803903"
+hash = "2189147937"
 
 [update]
 [update.curseforge]
-file-id = 3380959
+file-id = 3507194
 project-id = 349240
 release-channel = "beta"
